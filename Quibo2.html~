@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Quiubo2</title>
+	</head>
+
+	<body bgcolor="#ffffd8">
+		<div style = "background-color:pink">	
+			<font
+				size="11" face="Comic Sans MS" color="#db006e"> 
+				<h1>Tengo Sueño y Hambre<h1/> 
+			<font/>
+		</div>
+
+		<div style = "background-color:#ffcc99">	
+			<font 
+				size="8" face="Impact" color="blue">
+				<h2> 
+					<a href= "http://www.google.com">
+					Razita</a>
+				<h2/>
+		</div>
+
+		<font/>
+
+		<p>holis</p>
+
+		<font
+			size="6" face="Impact" color="red">
+			This is boring
+		</font>
+
+		<p>
+			<img src = "http://eslamoda.com/wp-content/uploads/sites/2/2017/08/pose-tumblr-mujer.jpg" 
+			alt "imagen.JPEG">
+		<p/>
+
+		<font size="5" face="New Times Roman" color="red">
+			Quiero Comida.
+		</font>
+		<font size="17" face="Courier New" color="#ffb3b3">
+			<i><b>Por su atencion gracias, sigan perdiendo el tiempo amiwos.<b/><i/>
+		</font>
+	<body/>
+
+</html>
+
